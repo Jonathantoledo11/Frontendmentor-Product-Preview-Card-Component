@@ -1,0 +1,70 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.pricing {
+    text-align: left;
+    font-family: 'Fraunces', serif;
+    padding-left: 2.2rem;
+    font-size: 28px;
+    color: hsl(158, 36%, 37%);
+}
+
+.xpricing {
+    font-size: small;
+    padding-left: 1rem;
+    color: hsl(228, 12%, 48%);
+}
+
+.col-md-8 {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+
+}
+
+.col-md-4 {
+   /* flex-direction: row; */
+}
+
+.
+
+
+
+.card-text1 {
+    font-family: 'Fraunces', serif;
+    text-align: center;
+    padding-left: 1.5rem;
+    padding-right: 1rem;
+    
+}
+
+.card-text {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 18px;
+    line-height: 1.6;
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1;
+}
+
+.card-title {
+    font-family: 'Fraunces-thin', serif;
+    font-size: 0.8rem;
+    color: hsl(228, 12%, 48%);
+    padding-left: 1rem;
+    padding-top: 0.50rem;
+    line-height: 1.6;
+    letter-spacing: 0.3rem;
+
+}
+
+img {
+    padding-top: 1.8rem;
+    size: 1px;
+}
+
+.fa-solid {
+    margin-right: 10px;
+}
